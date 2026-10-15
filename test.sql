@@ -1,0 +1,1 @@
+select * from failed_transaction;
